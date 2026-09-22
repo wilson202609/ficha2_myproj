@@ -2,4 +2,8 @@ Fiz uma alteração no ficheiro
 
 !Alterações efetuadas no branch NovaFeature!
 
+<<<<<<< HEAD
 Alteração no branch NOVAFEATURE
+=======
+Alteração no branch master
+>>>>>>> master

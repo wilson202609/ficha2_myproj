@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 <h2>Bebidas</h2>
 
 <ul>
@@ -8,7 +6,6 @@
 	<li>Tea</li>
 	<li>Milk</li>
 =======
->>>>>>> master
 <h1>Lista de coisas</h1>
 
 <h2>Comidas</h2>
@@ -16,9 +13,6 @@
 <ul>
 	<li>Bolos</li>
 	<li>Tostas</li>
-<<<<<<< HEAD
 	<li>Sandes</li>
+>>>>>>> NovaFeature
 </ul>
-=======
-	<li>Sandes</li>>>>>>>> NovaFeature
->>>>>>> master
